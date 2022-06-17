@@ -14,19 +14,18 @@ Performing analysis on Kickstarter data to uncover trends
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+**What are two conclusions you can draw about the Outcomes based on Launch Date?**	
 	After analyzing the outcomes based on goals data, I was able to conclude that across the twelve-month time period, the greatest number of successful outcomes occurred during the months of May and June.  I calculated the percentages for May and June of which came out to be 67% and 65%.
 	The second conclusion I drew from the data set was the variation of percentages of canceled outcomes were very small, with a maximum percentage of seven and a minimum of zero.
 
-- What can you conclude about the Outcomes based on Goals?
+**What can you conclude about the Outcomes based on Goals?**
 	The first conclusion I drew after analyzing the data was that the ranges with the greatest number of percentages of success occurred within two ranges of the goal.  The goal range of 1,000 to 4,999 had the highest percent of success.  The goal range of 35,000 to 40,000 had the second highest percent of success.
-The second conclusion that I drew from this data set that the two ranges with the highest percentages of failure were 45,000 to 49,000 and 25,000 to 29,000.  The range with the highest percentage of failure was 45,000 to 49,000
+	The second conclusion that I drew from this data set that the two ranges with the highest percentages of failure were 45,000 to 49,000 and 25,000 to 29,000.  The range with the highest percentage of failure was 45,000 to 49,000
 
-
-- What are some limitations of this dataset?
+**What are some limitations of this dataset?**
 	I found a couple of limitations with this dataset.  One of them being that the data is limited to only three years of data.  The other limitation I discovered was the fact that it is based on country and cannot be filtered by cities within those countries.
 
-- What are some other possible tables and/or graphs that we could create?
+**What are some other possible tables and/or graphs that we could create?**
 	I could filter the pivot table I made for the outcomes by launch date to analyze different parent categories like film and video which I can use to create a line graph to visualize the associated numbers.  I could also take it a step further and compare those graphs with the theater graph.
 	The outcomes based on goal only looked at the “plays” category.  I could run the same calculations for a different theatre subcategory like “musicals” or I could use a completely different parent category.
 
